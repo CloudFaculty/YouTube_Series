@@ -112,4 +112,4 @@ kubectl expose pod hello-minikube --type=NodePort
 ```
 
 ### Authors
-Vikram K
+CloudFaculty
